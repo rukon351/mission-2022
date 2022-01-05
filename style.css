@@ -14,7 +14,7 @@ body{
 .half-width img{
     width: 80%;
 }
-h1{
+.header-style{
     border-left: 3px solid #ff00008f;
     font-size: 50px;
     padding-left: 10px;
@@ -29,4 +29,55 @@ h1{
     background-color: #ff00008f;
     padding: 10px 40px;
     border-radius: 5px;
+}
+
+
+
+.second-section{
+ text-align: center;
+}
+.my-mission{
+    font-size: 50px;
+}
+
+
+
+.mission-set{
+    display: flex;
+    justify-content: space-around;
+    padding: 10%;
+}
+.mission{
+background-color: rgba(255, 255, 0, 0.596);
+width: 300px;
+border: 1px solid #ffff0098;
+border-radius: 20px;
+padding: 20px;
+margin: 10px;
+}
+.mission img{
+    width: 50%;
+}
+
+.vission{
+    background-color: rgba(255, 99, 71, 0.479);
+    width: 300px;
+    border: 1 px solid rgba(255, 99, 71, 0.479);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.vission img{
+    width: 50%;
+}
+.goals{
+    background-color: rgba(238, 130, 238, 0.527);
+    width: 300px;
+    border: 2px solid rgba(238, 130, 238, 0.527);
+    border-radius: 20px;
+    padding: 20px;
+    margin: 10px;
+}
+.goals img{
+    width: 50%;
 }
