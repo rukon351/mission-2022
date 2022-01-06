@@ -104,3 +104,16 @@ margin: 10px;
     padding-top: 15%;
 }
 
+footer h1{
+    font-family:  'Dancing Script', cursive;
+}
+
+.ftr{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin: 2px;
+}
