@@ -5,6 +5,7 @@ body{
 }
 .header{
     display: flex;
+    /* /* margin-top: 20px; */
 }
 .half-width{
     width: 50%;
@@ -94,5 +95,12 @@ margin: 10px;
     padding-left: 10%;
    
 }
-
+.kongka{
+    border-radius: 50%;
+}
+.projects-portfolio{
+    width: 50%;
+    padding-right: 10%;
+    padding-top: 15%;
+}
 
